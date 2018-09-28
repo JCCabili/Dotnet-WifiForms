@@ -1,0 +1,12 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\WifiForms\bin\Debug\WifiForms.exe.config
+D:\My Projects\POS\WifiForms\WifiForms\bin\Debug\WifiForms.exe.config
+D:\My Projects\POS\WifiForms\WifiForms\bin\Debug\WifiForms.exe
+D:\My Projects\POS\WifiForms\WifiForms\bin\Debug\WifiForms.pdb
+D:\My Projects\POS\WifiForms\WifiForms\bin\Debug\SimpleWifi.dll
+D:\My Projects\POS\WifiForms\WifiForms\obj\Debug\WifiForms.csprojResolveAssemblyReference.cache
+D:\My Projects\POS\WifiForms\WifiForms\obj\Debug\WifiForms.Form1.resources
+D:\My Projects\POS\WifiForms\WifiForms\obj\Debug\WifiForms.Properties.Resources.resources
+D:\My Projects\POS\WifiForms\WifiForms\obj\Debug\WifiForms.csproj.GenerateResource.Cache
+D:\My Projects\POS\WifiForms\WifiForms\obj\Debug\WifiForms.exe
+D:\My Projects\POS\WifiForms\WifiForms\obj\Debug\WifiForms.pdb
+D:\My Projects\POS\WifiForms\WifiForms\obj\Debug\WifiForms.Test.resources
